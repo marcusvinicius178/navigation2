@@ -38,7 +38,7 @@ ros2 launch nav2_bringup velodyne_test_launch.py
 </pre>
 
 
-![This is an image](https://github.com/marcusvinicius178/navigation2](https://github.com/marcusvinicius178/navigation2/blob/master/flags_fixed.png)
+![This is an image](https://github.com/marcusvinicius178/navigation2/blob/master/flags_fixed.png)
 
 
 
