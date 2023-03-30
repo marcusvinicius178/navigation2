@@ -9,4 +9,4 @@
 
 Framework Communication of SLAM
 
-![This is an image]https://raw.githubusercontent.com/SteveMacenski/slam_toolbox/ros2/images/slam_toolbox_sync.png
+![This is an image](https://raw.githubusercontent.com/SteveMacenski/slam_toolbox/ros2/images/slam_toolbox_sync.png)
