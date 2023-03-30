@@ -6,6 +6,7 @@
 
 [SLAM Toolbox Documentation](https://github.com/SteveMacenski/slam_toolbox)
 
+[Slam_toobox mapping tutorial](https://www.youtube.com/watch?v=rZOxPGCn4QM)
 
 Framework Communication of SLAM
 
@@ -15,3 +16,4 @@ There is a video tutorial of VLP 16 usage for mapping on Rviz, take a look:
 
 [Mapping with VLP-16](https://www.youtube.com/watch?v=Ium_J1K-Lxk)
 
+![This is an image](https://github.com/marcusvinicius178/navigation2/blob/galactic/mapping_Slam.png)
