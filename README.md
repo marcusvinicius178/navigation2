@@ -5,3 +5,8 @@
 [Mapping without a Previous Map](https://www.youtube.com/watch?v=dDODrSy6cYU)
 
 [SLAM Toolbox Documentation](https://github.com/SteveMacenski/slam_toolbox)
+
+
+Framework Communication of SLAM
+
+![This is an image]https://raw.githubusercontent.com/SteveMacenski/slam_toolbox/ros2/images/slam_toolbox_sync.png
