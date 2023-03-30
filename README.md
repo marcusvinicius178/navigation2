@@ -17,3 +17,27 @@ There is a video tutorial of VLP 16 usage for mapping on Rviz, take a look:
 [Mapping with VLP-16](https://www.youtube.com/watch?v=Ium_J1K-Lxk)
 
 ![This is an image](https://github.com/marcusvinicius178/navigation2/blob/galactic/mapping_Slam.png)
+
+# GABRIEL: Files which we have added:
+
+[velodyne launch file](https://github.com/marcusvinicius178/navigation2/blob/galactic/nav2_bringup/bringup/launch/velodyne_test_launch.py)
+
+## Commands we need to run to start velodyne simulation
+
+### Launch Velodyne Driver
+'''
+ros2 launch velodyne velodyne-all-nodes-VLP16-launch.py
+'''
+### Open LaserScan or Velodyne PCD data (set velodyne to fixed frame)
+'''
+ros2 run rviz2 rviz2 -f velodye
+'''
+### Running the velodyne along NAV2 launch file
+ros2 launch nav2_bringup velodyne_test_launch.py
+
+
+
+
+
+
+
