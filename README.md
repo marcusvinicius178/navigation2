@@ -10,3 +10,8 @@
 Framework Communication of SLAM
 
 ![This is an image](https://raw.githubusercontent.com/SteveMacenski/slam_toolbox/ros2/images/slam_toolbox_sync.png)
+
+There is a video tutorial of VLP 16 usage for mapping on Rviz, take a look:
+
+[Mapping with VLP-16](https://www.youtube.com/watch?v=Ium_J1K-Lxk)
+
