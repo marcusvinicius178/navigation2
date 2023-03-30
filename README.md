@@ -8,7 +8,7 @@
 
 [Slam_toobox mapping tutorial](https://www.youtube.com/watch?v=rZOxPGCn4QM)
 
-Framework Communication of SLAM
+### Framework Communication of SLAM
 
 ![This is an image](https://raw.githubusercontent.com/SteveMacenski/slam_toolbox/ros2/images/slam_toolbox_sync.png)
 
