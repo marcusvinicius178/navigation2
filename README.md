@@ -1,4 +1,4 @@
-# Links relevant to fix our issue with Velodyne communication:
+# Relevant Links to fix our issue with Velodyne communication:
 
 [Real Robot with NAV2 and Lidar](https://www.youtube.com/watch?v=jkoGkAd0GYk)
 
