@@ -25,9 +25,11 @@ There is a video tutorial of VLP 16 usage for mapping on Rviz, take a look:
 ## Commands we need to run to start velodyne simulation
 
 ### Launch Velodyne Driver
+<pre>
 '''
 ros2 launch velodyne velodyne-all-nodes-VLP16-launch.py
 '''
+</pre>
 ### Open LaserScan or Velodyne PCD data (set velodyne to fixed frame)
 '''
 ros2 run rviz2 rviz2 -f velodye
